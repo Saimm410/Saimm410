@@ -16,8 +16,8 @@ I'm [Muhammad Saim], a passionate software developer with expertise in building 
 
 ## 💬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saim-03b508247/)  
-- ✉️ Email: [your.email@example.com](mailto:smaliksaim@gmail.com)
+- 💼 [LinkedIn]: (https://www.linkedin.com/in/muhammad-saim-03b508247/)  
+- ✉️ [Email]:(smaliksaim@gmail.com)
 
 
 ✨ Feel free to explore my repositories and reach out if you'd like to collaborate!
