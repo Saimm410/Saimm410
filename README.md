@@ -16,7 +16,7 @@ I'm [Muhammad Saim], a passionate software developer with expertise in building 
 
 ## 💬 Let's Connect
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/muhammad-saim-03b508247/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saim-03b508247/)  
 - ✉️ Email: [your.email@example.com](mailto:smaliksaim@gmail.com)
 
 
